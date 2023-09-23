@@ -21,7 +21,7 @@ funciona con:
 - suma: este sirve para sumar la lista y poder ver el resultado
 
 ---
-
+```
 while True:
  print("\nMi Calculadora")
  print("1. Suma")
